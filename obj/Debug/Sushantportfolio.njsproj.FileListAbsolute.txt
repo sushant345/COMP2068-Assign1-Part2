@@ -1,0 +1,3 @@
+C:\Users\susha\source\repos\Sushantportfolio\Sushantportfolio\obj\Debug\Sushantportfolio.njsprojAssemblyReference.cache
+C:\Users\susha\source\repos\Sushantportfolio\Sushantportfolio\obj\Debug\Sushantportfolio.njsproj.CoreCompileInputs.cache
+C:\Users\susha\source\repos\Sushantportfolio\Sushantportfolio\bin\Microsoft.NodejsTools.WebRole.dll
