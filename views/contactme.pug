@@ -1,0 +1,21 @@
+extends layout
+
+block content
+
+      form#contact-form(name='contact-form')
+      .md-form.text-white.bg-warning
+         // this a page with little form to fill if some wants to contact me for any issues in his/her studies.
+      label(for='name') Name:
+      input#name.form-control(type='text', name='name') 
+      .md-form.text-white.bg-warning
+      label(for='email') Email:
+      input#email.form-control(type='text', name='email')
+      .md-form.text-white.bg-warning
+      label(for='subject') Subject:
+      input#subject.form-control(type='text', name='subject')
+      .md-form.text-white.bg-warning
+      label(for='message') Message:
+      textarea#message.form-control.md-textarea(type='text', name='message', rows='2')
+      .text-center.text-md-left
+      <button>
+       a.btn.btn-success(onclick="document.getElementById('contact-form').submit();") Send</button>
